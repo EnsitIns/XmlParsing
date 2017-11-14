@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="XmlParsing">
+    <output-path>$PROJECT_DIR$/out/artifacts/XmlParsing</output-path>
+    <root id="archive" name="XmlParsing.jar">
+      <element id="module-output" name="XmlParsing" />
+      <element id="file-copy" path="D:/lib/log4j-1.2.15.jar" />
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>
